@@ -18,4 +18,4 @@ Python · PyTorch · TensorFlow · Scikit-learn · HuggingFace
 Transformers · LangChain · FastAPI · Streamlit · SQL
 
 ## 📫 Connect
-[LinkedIn](www.linkedin.com/in/mohammed-hasif-530805265) · [Email](mailto:muhammedhasif7127@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mohammed-hasif-530805265) · [Email](mailto:muhammedhasif7127@gmail.com)
