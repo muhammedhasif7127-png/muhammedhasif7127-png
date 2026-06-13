@@ -1,16 +1,21 @@
-## Hi there 👋
+# Mohammed Hasif — AI/ML Engineer
 
-<!--
-**muhammedhasif7127-png/muhammedhasif7127-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building intelligent systems across computer vision, NLP, and LLMs.
+> Currently seeking AI/ML internship opportunities.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Stack |
+|---|---|---|
+| [Chest X-Ray AI](link) | Multi-label thoracic disease detection with ViT-B/16 | PyTorch, Transformers |
+| [NL to Code Generator](link) | Natural language → code using Claude API | Python, Claude API |
+| [NASA Engine Maintenance](link) | Predictive RUL estimation with Streamlit | Scikit-learn, Streamlit |
+| [AI Paraphrasing Tool](link) | T5 transformer with BLEU/ROUGE evaluation | HuggingFace, NLP |
+| [MNIST GAN](link) | Generative adversarial network from scratch | TensorFlow, Keras |
+
+## 🛠 Tech Stack
+Python · PyTorch · TensorFlow · Scikit-learn · HuggingFace
+Transformers · LangChain · FastAPI · Streamlit · SQL
+
+## 📫 Connect
+[LinkedIn](www.linkedin.com/in/mohammed-hasif-530805265) · [Email](mailto:muhammedhasif7127@gmail.com)
